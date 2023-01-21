@@ -8,7 +8,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vh;
     height: 100vh;
     background-image: linear-gradient(to right, #00b4db, #0083b0);
 }
@@ -19,8 +18,7 @@ body.wrong{
     background-color: brown;
 }
 .container{
-   width: 800px;
-   max-width: 70%;
+    min-width: 800px;
    background-color: #fff;
    border-radius: 5px;
    padding: 10px;

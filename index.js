@@ -96,7 +96,7 @@ const questions = [
   {
     question:
       "Which of the following is not a high level programming language?",
-    a: "C++",
+    a: "Java",
     b: "Javascript",
     c: "Assembly",
     d: "Python",
