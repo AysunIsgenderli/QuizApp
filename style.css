@@ -18,7 +18,7 @@ body.wrong{
     background-color: brown;
 }
 .container{
-    min-width: 800px;
+   max-width: 80%;
    background-color: #fff;
    border-radius: 5px;
    padding: 10px;
